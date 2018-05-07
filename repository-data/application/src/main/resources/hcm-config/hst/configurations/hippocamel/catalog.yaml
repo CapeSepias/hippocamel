@@ -1,0 +1,6 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/hippocamel/hst:catalog:
+      jcr:primaryType: hst:catalog
+      /hippocamel-catalog:
+        jcr:primaryType: hst:containeritempackage

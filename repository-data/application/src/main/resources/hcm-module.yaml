@@ -1,0 +1,6 @@
+group: 
+  name: hippocamel
+  after: hippo-cms
+project: hippocamel
+module:
+  name: hippocamel-repository-data-application
