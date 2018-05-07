@@ -16,4 +16,3 @@ definitions:
           jcr:mixinTypes: ['mix:versionable']
           jcr:uuid: 80a2611c-642c-4642-9f32-b0098642c951
           hippostd:foldertype: [new-resource-bundle, new-untranslated-folder]
-ckea
