@@ -12,6 +12,22 @@
   <name>Hippo CMS Apache Camel Integration Site</name>
   <description>Hippo CMS Apache Camel Integration Site</description>
   <dependencies>
+
+    <dependency>
+      <groupId>org.apache.camel</groupId>
+      <artifactId>camel-http4</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.apache.camel</groupId>
+      <artifactId>camel-spring</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.onehippo.forge.camel-hippoevt</groupId>
+      <artifactId>camel-hippoevt</artifactId>
+    </dependency>
+
     <dependency>
       <groupId>javax.servlet.jsp</groupId>
       <artifactId>jsp-api</artifactId>

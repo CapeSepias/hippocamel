@@ -1,7 +1,7 @@
 /content/gallery/hippocamel:
   jcr:primaryType: hippogallery:stdImageGallery
   jcr:mixinTypes: ['hippo:named', 'mix:referenceable']
+  jcr:uuid: fb8201e2-edaf-4b3b-b083-9861f4165712
   hippo:name: Hippo CMS Apache Camel Integration
   hippostd:foldertype: [new-image-folder]
   hippostd:gallerytype: ['hippogallery:imageset']
-

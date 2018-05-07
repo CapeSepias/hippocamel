@@ -1,0 +1,48 @@
+definitions:
+  config:
+    /hippo:configuration/hippo:translations/hippo:types/hippocamel:newsdocument:
+      jcr:primaryType: hipposys:resourcebundles
+      /en:
+        jcr:primaryType: hipposys:resourcebundle
+        hippocamel:author: Author
+        hippocamel:content: Content
+        hippocamel:date: Date
+        hippocamel:image: Image
+        hippocamel:introduction: Introduction
+        hippocamel:location: Location
+        hippocamel:source: Source
+        hippocamel:title: Title
+        jcr:name: News Item
+      /nl:
+        jcr:primaryType: hipposys:resourcebundle
+        hippocamel:author: Auteur
+        hippocamel:content: Inhoud
+        hippocamel:date: Datum
+        hippocamel:image: Afbeelding
+        hippocamel:introduction: Introductie
+        hippocamel:location: Locatie
+        hippocamel:source: Bron
+        hippocamel:title: Titel
+        jcr:name: Nieuwsbericht
+      /de:
+        jcr:primaryType: hipposys:resourcebundle
+        hippocamel:author: Verfasser
+        hippocamel:content: Inhalt
+        hippocamel:date: Datum
+        hippocamel:image: Abbildung
+        hippocamel:introduction: Einführung
+        hippocamel:location: Standort
+        hippocamel:source: Quelle
+        hippocamel:title: Titel
+        jcr:name: News
+      /fr:
+        jcr:primaryType: hipposys:resourcebundle
+        hippocamel:author: Auteur
+        hippocamel:content: Contenu
+        hippocamel:date: Date
+        hippocamel:image: Image
+        hippocamel:introduction: Introduction
+        hippocamel:location: Lieu
+        hippocamel:source: Source
+        hippocamel:title: Titre
+        jcr:name: Message d'info

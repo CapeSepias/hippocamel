@@ -1,0 +1,45 @@
+/content/documents/hippocamel/res:
+  .meta:order-before: news
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['mix:referenceable']
+  jcr:uuid: 8f576347-2c57-4a23-96fe-3a0f268589e5
+  /res[1]:
+    jcr:primaryType: resourcebundle:resourcebundle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: b38804ff-7dd3-4704-a786-10f952dad1bf
+    hippo:availability: []
+    hippostd:state: draft
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2018-05-07T16:47:06.763+02:00
+    hippostdpubwf:lastModificationDate: 2018-05-07T16:47:06.763+02:00
+    hippostdpubwf:lastModifiedBy: admin
+    resourcebundle:id: fdsa
+    resourcebundle:keys: []
+    resourcebundle:messages: []
+  /res[2]:
+    jcr:primaryType: resourcebundle:resourcebundle
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: 65631468-415e-4621-8ee3-43ec465a59bf
+    hippo:availability: [preview]
+    hippostd:state: unpublished
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2018-05-07T16:47:06.763+02:00
+    hippostdpubwf:lastModificationDate: 2018-05-07T16:47:10.504+02:00
+    hippostdpubwf:lastModifiedBy: admin
+    resourcebundle:id: fdsa
+    resourcebundle:keys: []
+    resourcebundle:messages: []
+  /res[3]:
+    jcr:primaryType: resourcebundle:resourcebundle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 0d52308f-992b-4edc-9399-b7030fd4d0ef
+    hippo:availability: [live]
+    hippostd:state: published
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2018-05-07T16:47:06.763+02:00
+    hippostdpubwf:lastModificationDate: 2018-05-07T16:47:10.504+02:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippostdpubwf:publicationDate: 2018-05-07T22:17:05.604+02:00
+    resourcebundle:id: fdsa
+    resourcebundle:keys: []
+    resourcebundle:messages: []

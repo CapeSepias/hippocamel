@@ -1,6 +1,8 @@
 /content/documents/hippocamel:
+  .meta:order-before: administration
   jcr:primaryType: hippostd:folder
   jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: 66dd2df9-f430-4201-b442-5253c7f88465
   hippo:name: Hippo CMS Apache Camel Integration
   hippostd:foldertype: [new-translated-folder, new-document]
   hippotranslation:id: 996bcac5-86cf-49b5-a7a3-16a74863e814
