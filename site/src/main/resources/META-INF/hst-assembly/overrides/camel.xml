@@ -8,7 +8,7 @@
   <!--(HST)Components Annotation Scanning-->
   <context:component-scan base-package="com.bloomreach"/>
 
-  <camelContext xmlns="http://camel.apache.org/schema/spring">
+  <camelContext xmlns="http://camel.apache.org/schema/spring" id="site">
     <!-- and then let Camel use those @Component scanned route builders -->
     <contextScan/>
 

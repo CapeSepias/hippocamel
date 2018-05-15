@@ -9,7 +9,7 @@
   <!-- enable Spring @Component scan -->
   <context:component-scan base-package="com.bloomreach"/>
 
-  <camelContext xmlns="http://camel.apache.org/schema/spring">
+  <camelContext xmlns="http://camel.apache.org/schema/spring" id="cms">
     <!-- and then let Camel use those @Component scanned route builders -->
     <contextScan/>
 
